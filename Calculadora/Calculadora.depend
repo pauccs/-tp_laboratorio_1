@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1523248672 source:c:\users\usuario\downloads\facultad\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1523248503 source:c:\users\usuario\downloads\facultad\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1523248770 c:\users\usuario\downloads\facultad\calculadora\funciones.h
+
+1523385394 source:c:\users\administrador\downloads\programacion_1_laboratorio_1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1523385378 c:\users\administrador\downloads\programacion_1_laboratorio_1\calculadora\funciones.h
+
+1523383598 source:c:\users\administrador\downloads\programacion_1_laboratorio_1\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1523764394 source:e:\chiossone\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1523511666 source:e:\chiossone\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1523385380 e:\chiossone\calculadora\funciones.h
+
