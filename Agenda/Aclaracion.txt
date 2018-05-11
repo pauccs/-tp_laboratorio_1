@@ -1,0 +1,11 @@
+Aclaracion importante del programa.
+
+El programa cuenta con 20 items de estructura para cada dato que se pide:
+- Nombre
+- Edad
+- Dni
+
+Tiene 2 formas de ejecutarlo, de manera manual (cargando cada item de los datos) o de forma automatica (datos precargados), ambos pensado para la cantidad de items que se pide en el ejercicio.
+
+El programa se encuentra con los datos en forma manual, si se quiere cargar
+los datos de forma precargada basta con comentar la linea 41  y descomentar la linea 20 del main.c

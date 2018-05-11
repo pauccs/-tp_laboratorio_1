@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526014322 source:e:\chiossone\agenda\agenda\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526010766 e:\chiossone\agenda\agenda\funciones.h
+
+1526014476 source:e:\chiossone\agenda\agenda\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
